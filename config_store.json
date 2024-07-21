@@ -1,0 +1,20 @@
+{
+    "time": {
+        "step": 60,
+        "price_per_unit": 1
+    },
+    "concurrent": {
+        "step": 1,
+        "price_per_unit": 2
+    },
+    "expire": {
+        "step": 30,
+        "price_per_unit": 4
+    },
+    "vip": {
+        "price": 2
+    },
+    "bypass_blacklist": {
+        "price": 3
+    }
+}
